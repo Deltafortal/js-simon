@@ -9,7 +9,7 @@ const answer = document.getElementById('answer')
 
 // Definisci le variabili necessarie
 const numberSlots = 5;
-const totalTimer = 5;
+const totalTimer = 30;
 let time = totalTimer;
 let numbers = [];
 let answered = 0;
