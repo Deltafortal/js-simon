@@ -40,7 +40,8 @@ li {
     font-weight: 700;
 }
 
-#numbers {
+.numbers {
+    display: flex;
     font-size: 40px;
 }
 
@@ -51,3 +52,7 @@ li {
     color: green;
 }
 
+
+.unactive {
+    display: none;
+}
