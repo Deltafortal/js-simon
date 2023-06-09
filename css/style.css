@@ -16,6 +16,30 @@
 
 /* Generals */
 
-body {
-    background-color: rgb(162, 162, 199);
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-right: 50px;
+}
+/* Main */
+
+.container {
+    height: 100vh;
+}
+
+.row {
+    height: 50%;
+    width: 100vw;
+}
+
+#timer {
+    font-size: 65px;
+    font-weight: 700;
+}
+
+#numbers {
+    font-size: 40px;
 }
